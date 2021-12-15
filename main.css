@@ -130,7 +130,7 @@ body {
 @media (max-width: 767px) {
     .container {
         width: 320px;
-        top: 65%;
+        top: 70%;
     }
     .container .info {
         margin-top: 15px;
